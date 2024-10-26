@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kranthikeya
+- 👋 Hi, I’m @kranthi kumar dande
 - 👀 I’m interested in coding, problem sloving.
 - 🌱 I’m currently learning AIML Technology.
 - 💞️ I’m looking to collaborate on internships related to AIML, BlockChain internships.
